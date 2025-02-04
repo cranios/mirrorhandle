@@ -8,11 +8,6 @@ Este projeto contém scripts para o Autodesk Maya que permitem espelhar os valor
    ```bash
    git clone https://github.com/seu-usuario/mirror-handles.git
 
-## Instalação
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/mirror-handles.git
 Coloque os scripts no diretório de scripts do Maya.
 Uso
 Abra o Maya e selecione as curvas animadas no Graph Editor.
